@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요&fontAlign=50&textBg=false&reversal=false&desc=언제나%20새로운%20지식을%20추구하는%20프로그래머%20입니다&descAlign=50&descAlignY=65)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요&fontAlign=50&textBg=false&reversal=false&desc=남에게%20설명할%20수%20있을%20때까지&descAlign=50&descAlignY=65)
 
 
 <!--
