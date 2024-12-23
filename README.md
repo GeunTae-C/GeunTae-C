@@ -10,7 +10,7 @@
   />
 </a>
 
-![GeunTae-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true&theme=dracula)
+![GeunTae-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true&theme=highcontrast)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeunTae-C&layout=compact&theme=tokyonight)
 
