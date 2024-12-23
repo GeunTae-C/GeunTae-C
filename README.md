@@ -1,9 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하&fontAlign=50&fontAlignY=35&textBg=false&reversal=false&desc=남에게%20설명할%20수%20있을%20때까지&descAlign=50&descAlignY=55)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeunTae-C&layout=compact&theme=date_night )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeunTae-C&layout=compact&theme=moltack)
 
-![GeunTae-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true&theme=date_night ) 
+![GeunTae-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true&theme=moltack) 
 
 
 <a href="https://github.com/devxb/gitanimals">
