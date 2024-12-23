@@ -8,7 +8,10 @@
   height="300"
 />
 </a>
-[![CGT's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true&theme=dracula)](https://github.com/GeunTae-C/github-readme-stats)
+
+![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&show_icons=true)
+
+
 <!--
 **GeunTae-C/GeunTae-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
