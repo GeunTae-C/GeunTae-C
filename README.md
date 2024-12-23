@@ -9,7 +9,7 @@
 />
 </a>
 
-![Seolranlee's GitHub stats](https://github-readme-stats.vercel.app/api?username=seolranlee&show_icons=true)
+![GeunTae-C's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeunTae-C&show_icons=true)
 
 
 <!--
