@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하세요&fontAlign=50&fontAlignY=35&textBg=false&reversal=false&desc=남에게%20설명할%20수%20있을%20때까지&descAlign=50&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=안녕하&fontAlign=50&fontAlignY=35&textBg=false&reversal=false&desc=남에게%20설명할%20수%20있을%20때까지&descAlign=50&descAlignY=55)
 
 
 <!--
